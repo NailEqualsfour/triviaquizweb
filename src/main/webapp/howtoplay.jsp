@@ -64,7 +64,7 @@
 footer {
   text-align: center;
   padding: 3px;
-  color: black;
+  color: green;
 }
 </style>
 <title>Trivia Quiz</title>
